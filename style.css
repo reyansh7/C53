@@ -1,0 +1,26 @@
+    h1 {
+      color:(0,0,0)
+    }
+    .header{
+        background-color:(255,0,0);
+    display:flex;
+    justify-content:space-evenly
+    }
+    .hea{
+        background-color:white;
+        display:flex;
+        flex-wrap:wrap;
+        justify-content:space-evenly
+    }
+
+    .games{
+        background-color: orange;
+        display:flex;
+        flex-wrap:wrap;
+        justify-content:space-evenly
+    }
+    .socialmedia{
+        background-color:red;
+        
+    }
+    
